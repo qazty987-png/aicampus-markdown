@@ -124,3 +124,11 @@ markup과 markdown 모두 효과가 있습니다.
 
 ![호돌이](https://mblogthumb-phinf.pstatic.net/MjAxODAyMjNfMjU4/MDAxNTE5MzY1NDk2Mzg5.OkvWtgJ4yzwz1VmbFEUXquVCMMin5MGaal8huhxyctgg.gAtl9xQ0DtOFRkEgDRWInLhHw_DFv6azi-GG8uJB4Iwg.GIF.businessinsight/6d2c62f3197f68905f4db06c39766e82_%281%29.gif?type=w800)
 
+깃허브는 이미지를 복사해서 붙여넣어도 임시로 업로드해서 주소를 만들어 줍니다.
+
+<img width="300" height="245" alt="image" src="https://github.com/user-attachments/assets/4502418f-1dbe-4b50-95a6-0c72d173cb6c" />
+
+내가 가진 이미지도 표시할 수 있습니다.
+같은 저장소에 있다면 상대경로로 표시할 수 있습니다.
+
+![호돌이](./dummy/hodol.gif)
