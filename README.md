@@ -110,4 +110,17 @@ markup과 markdown 모두 효과가 있습니다.
 
 - [테스트문서](./dummy/test.md)
 
+# 이미지(image)
+
+이미지는 링크 앞에 `!`만 추가하면 됩니다.
+
+단, 주소의 대상이 반드시 이미지여야 합니다.(아니면 엑박이 나옵니다)
+
+내가 가진 이미지, 남이 가진 이미지 모두 표시가 가능합니다.
+
+```
+![이미지간단설명](이미지주소)
+```
+
+![호돌이](https://mblogthumb-phinf.pstatic.net/MjAxODAyMjNfMjU4/MDAxNTE5MzY1NDk2Mzg5.OkvWtgJ4yzwz1VmbFEUXquVCMMin5MGaal8huhxyctgg.gAtl9xQ0DtOFRkEgDRWInLhHw_DFv6azi-GG8uJB4Iwg.GIF.businessinsight/6d2c62f3197f68905f4db06c39766e82_%281%29.gif?type=w800)
 
